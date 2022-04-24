@@ -1,0 +1,50 @@
+I Generalites unites et analyse dimensionnelle
+
+	1.1 Cinematique et dynamique
+
+		- Cinematique description des mouvement ()position, vitesse, acceleration)
+
+		- Dynamique etude des forces
+
+	1.2 Coordonnees
+
+	espace de dimension 3
+
+		-> 3 nombre pour decrire un deplacements 
+
+		-> referentiel: - point de reference origine
+						- 3 axes de reference
+
+		(->OM) = x (->u)x + y (->u)y + z (->u)z
+		coordonnes cartesiennes.
+
+		(->OM) = (x, y, z);
+
+		OM = ||(->OM)|| = sqrt(x^2 + y^2 + z^2);
+
+		om^2 = (->OM).(->OM) = (x, y, z) * (z, y, z) = x^2 + y^2 + z^2;
+
+	1.3 Dimension physique
+
+	3 types de grandeurs en mecanique
+
+		- longueur	L;
+		- temps		T;
+		- masse		M;
+
+		vitesse ~= longueur / temps;
+
+		v = l/t;
+
+		[v] = L/T = L*(T^-1);
+
+	1.4 Unites
+
+		- longueur	metre;
+		- temps		seconde;
+		- masse		kilogramme;
+	
+	1.5 Analyse dimensionnelle
+
+		[g] = L*(T^-2)
+		T = 
