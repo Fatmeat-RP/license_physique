@@ -47,4 +47,11 @@ I Generalites unites et analyse dimensionnelle
 	1.5 Analyse dimensionnelle
 
 		[g] = L*(T^-2)
-		T = 
+		
+		E = M*(C^2)
+
+		T = (l^(1/2)) / (g^(1/2)) = sqrt(l/g);
+		
+		[E] = 
+
+		r = (((t^2)e)/p);
